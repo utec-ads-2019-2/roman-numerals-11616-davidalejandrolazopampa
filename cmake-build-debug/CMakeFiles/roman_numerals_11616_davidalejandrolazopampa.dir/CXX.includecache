@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/David Lazo/Documents/GitHub/roman-numerals-11616-davidalejandrolazopampa/main.cpp
+iostream
+-
+map
+-
+
